@@ -1,0 +1,9 @@
+Name			/mana/strength/agility/dexterity/starting money/starting experience
+Andreas_Beowulf    	100     900       500    	 600     	   1354    	7
+Cathal_Ptolemaios    	600     1000     800    	 500     	   2500    	8
+Rainer_Oliver    	 300     900       700       750     	   2546    	6
+Walther_Hildebert  	200     750       650    	 700     	   2500      	7
+
+
+
+

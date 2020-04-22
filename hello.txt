@@ -1,0 +1,15 @@
+Welcome to the Game of the Quest!　　　
+(1) <SHORTCUTS>: Moving: up (w), left (a), down(s), right(d), teleport 
+(t/teleport), to go back (b/back)
+quit game (q), show info (i), (map) board display, uses market (market)
+change weapon/armor(change), drink Potion (potion), to attack (attack), 
+to cast spell (spell) 
+
+<ABBREVIATION>: 
+first 3 letters for a tool (Potion, Spell, Weapon, or Armor)
+first 4 letters for a hero. 
+If the abbr if not unique, it may be better that you type in the full name!
+
+<Heroes>: You may use two of the same Heroes. 
+	 ~~~ NOW LET THE FUN BEGIN! ~~~　　　　　　　　
+▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲△▲

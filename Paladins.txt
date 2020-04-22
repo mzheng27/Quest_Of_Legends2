@@ -1,0 +1,5 @@
+Name			/mana/strength/agility/dexterity/starting money/starting experience
+Miller_Dawnward   	  300     750     650      700    	 2500    	7
+Marian_Nightbreaker     300      750     700      700     	2500    	7
+Jacque_Dawnward  	 250       700     600      350     	2500    	4
+Tirell_Lumis     	100       650     500      400     	2500    	5
